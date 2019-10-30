@@ -1,0 +1,117 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) PHP/7.2.18
+MySQL version 		: 5.7.26
+XML Reader 		: Yes
+PHP Version 		: 7.2.18
+PHP Max Input Vars 	: 2500
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 3
+
+-----
+
+Importing Started! - 06:36:31 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 5
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","site-content-layout":"boxed-container","different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/yoga-center-02\/wp-content\/uploads\/sites\/286\/2018\/10\/logo@2x-free-img.png","display-site-title":false,"single-page-sidebar-layout":"default","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by <a href=\"#\">[site_title]<\/a>","footer-sml-divider":0,"theme-color":"#ff3a6f","link-color":"#ff3a6f","link-h-color":"#ff3a6f","text-color":"#1d1d23","body-font-family":"'Roboto', sans-serif","body-font-weight":"400","headings-font-family":"'Noto Serif JP', sans-serif","headings-font-weight":"900","font-size-h1":{"desktop":"60","tablet":"40","mobile":"34","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep":0,"footer-bg-obj":{"background-color":"rgba(0,0,0,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"button-bg-h-color":"#ce297e","button-radius":50,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"mobile-header-toggle-btn-style":"outline","mobile-header-toggle-btn-border-radius":5,"ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"140"},"site-sidebar-layout":"no-sidebar","body-font-variant":"400","headings-font-variant":"900","transparent-header-enable":0,"footer-color":"#476d80","footer-link-color":"#476d80","footer-link-h-color":"#ff3a6f","font-size-h2":{"desktop":"42","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/286/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Uncategorized","slug":"uncategorized","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"Yoga","slug":"yoga","term_group":0,"term_taxonomy_id":3,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":5,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 6 - {"term_id":6,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":6,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 9 - page - Home
+Inserted - Post 30 - attachment - favicon-free-img
+Inserted - Post 31 - attachment - logo@2x-free-img
+Inserted - Post 32 - attachment - logo-free-img
+Inserted - Post 34 - page - About Me
+Inserted - Post 35 - page - Classes
+Inserted - Post 36 - nav_menu_item - HOME
+Inserted - Post 37 - nav_menu_item - ABOUT ME
+Inserted - Post 38 - nav_menu_item - CLASSES
+Inserted - Post 40 - attachment - divider-free-img.png
+Inserted - Post 41 - attachment - yoga1-free-img.png
+Inserted - Post 42 - attachment - yoga6-free-img.png
+Inserted - Post 43 - attachment - yoga3-free-img.png
+Inserted - Post 44 - attachment - yoga5-free-img.png
+Inserted - Post 45 - attachment - yoga4-free-img.png
+Inserted - Post 46 - attachment - yoga2-free-img.png
+Inserted - Post 47 - attachment - bg-logo-free-img.png
+Inserted - Post 48 - attachment - awa1-free-img.png
+Inserted - Post 49 - attachment - awa4-free-img.png
+Inserted - Post 50 - attachment - awa2-free-img-1.png
+Inserted - Post 51 - attachment - awa3-free-img.png
+Inserted - Post 52 - attachment - awa5-free-img.png
+Inserted - Post 53 - attachment - count-bg-free-img.jpg
+Inserted - Post 54 - attachment - yoga-benefits-free-img.jpg
+Inserted - Post 55 - attachment - about-bg-free-img-4.jpg
+Inserted - Post 56 - attachment - slide4-free-img.jpg
+Inserted - Post 58 - attachment - quote-free-img.png
+Inserted - Post 59 - attachment - client1-free-img-4.png
+Inserted - Post 60 - attachment - client4-free-img-4.png
+Inserted - Post 61 - attachment - client3-free-img-4.png
+Inserted - Post 62 - attachment - cta-bg-free-img.jpg
+Inserted - Post 64 - attachment - yoga-instructor-free-img.jpg
+Inserted - Post 65 - attachment - author-free-img-1.jpg
+Inserted - Post 66 - attachment - nutritionist-free-img.jpg
+Inserted - Post 68 - attachment - slide1-free-img.jpg
+Inserted - Post 69 - attachment - slide3-free-img.jpg
+Inserted - Post 70 - attachment - slide2-free-img.jpg
+Inserted - Post 71 - attachment - slide5-free-img.jpg
+Inserted - Post 72 - attachment - slide6-free-img.jpg
+Inserted - Post 73 - attachment - discount-free-img.png
+Inserted - Post 76 - attachment - courses-bg-free-img-1
+Inserted - Post 81 - page - Publications
+Inserted - Post 83 - attachment - book1-free-img
+Inserted - Post 89 - attachment - book3-free-img
+Inserted - Post 90 - attachment - book2-free-img
+Inserted - Post 93 - nav_menu_item - PUBLICATIONS
+Inserted - Post 94 - page - Get Fit
+Inserted - Post 97 - nav_menu_item - GET FIT
+Inserted - Post 126 - attachment - home-bg-free-img
+Inserted - Post 135 - attachment - demo-screenshot-free-img
+Inserted - Post 152 - page - Blog
+Inserted - Post 185 - attachment - weights-free-img
+Inserted - Post 199 - post - Live a Disciplined Life
+Inserted - Post 205 - attachment - blog-1
+Inserted - Post 295 - attachment - gymnastics-free-img
+Inserted - Post 309 - post - Top 5 Rules of Yoga
+Inserted - Post 312 - post - Basic Yoga Techniques for Beginners
+Inserted - Post 314 - post - Perfect Nutrition for Healthy Life
+Inserted - Post 316 - post - What I Learned from Yoga
+Inserted - Post 319 - post - My Yoga Journey
+Inserted - Post 329 - attachment - blog-2
+Inserted - Post 336 - attachment - blog-3
+Inserted - Post 341 - attachment - blog-4
+Inserted - Post 346 - wp_block - Blog-hero-sec
+Inserted - Post 411 - attachment - blog-5
+Inserted - Post 414 - attachment - blog-6
+Inserted - Post 444 - nav_menu_item - BLOG
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/yoga-instructor-02\/wp-content\/uploads\/sites\/286\/2018\/10\/logo-free-img.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#ff3a6f","5":"#ce297e","6":"#4d076b","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'torso' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 444
+Post ID: 97
+Post ID: 93
+Post ID: 36
+Post ID: 37
+Post ID: 38
+Batch Process Complete!
